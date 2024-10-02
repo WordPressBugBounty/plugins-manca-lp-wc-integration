@@ -1,0 +1,1 @@
+# plugins-manca-lp-wc-integration
